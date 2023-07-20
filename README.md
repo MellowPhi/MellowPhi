@@ -1,7 +1,7 @@
 ## 👋 Hi, I am Om "ॐ"
 
 - 🔭 I’m currently working on my studies
-- 🌱 I’m currently learning Java, and studying object oriented programming design (OOP)
+- 🌱 I’m currently learning Frontend tech (HTML/CSS/JS)
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 Contact me [LinkedIn](https://www.linkedin.com/in/om-thapa/)
 
