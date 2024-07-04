@@ -1,9 +1,8 @@
 <h1 align="center"> 👋 Hi, I am Om "ॐ"</h1>
-<h4 align="center">Software Developer Based in Hobart</h4>
+<h4 align="center">Software Developer Based in Melbourne</h4>
 
 ---
-- 🔭 I’m currently working on my studies.
-- 🌱 I’m currently learning Java SpringBoot and ReactJS
+- 🌱 I’m currently learning COBOL.
 - 👯 I’m looking to collaborate on open source projects.
   
 ---
