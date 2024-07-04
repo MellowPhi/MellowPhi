@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on my studies.
 - 🌱 I’m currently learning Java SpringBoot and ReactJS
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 Contact me [LinkedIn](https://www.linkedin.com/in/om-thapa/) or [Email](mailto:ombt14@gmail.com)
   
 ---
 
