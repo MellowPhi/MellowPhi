@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I am Om "ॐ"</h1>
-<h4 align="center">Software Developer Based in Melbourne</h4>
+<h4 align="center">Software Developer Based in Australia</h4>
 
 ---
 - 🌱 I’m currently learning C.
