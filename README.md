@@ -43,12 +43,3 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
----
-![Profile Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{MellowPhi}1212%2Fhit-counter)
-
-## Stats
-<p float="left">
-  <img alt="Om's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MellowPhi&show_icons=true&hide_border=true&theme=dark" height=165px />
-</p>
-
----
