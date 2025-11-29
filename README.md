@@ -1,11 +1,5 @@
 <h1 align="center"> 👋 Hi, I am Om "ॐ"</h1>
-<h4 align="center">Software Developer Based in Australia</h4>
 
----
-- 🌱 I’m currently learning C.
-- 👯 I’m looking to collaborate on open source projects.
-  
----
 
 ### 📋 Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
